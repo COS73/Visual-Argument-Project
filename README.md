@@ -28,4 +28,4 @@ I stuck to using two main colors throughout the visual argument. The purpose of 
 
 ### Note on Sources
 
-All sources were found using Google Images’ Creative Commons licensing search tool. Meaning that all images are licensed under Creative Commons and available for fair use. Sourced websites all listed in SOURCES.md file.
+All sources were found using Google Images’ Creative Commons licensing search tool. Meaning that all images are licensed under Creative Commons and available for fair use. Sourced websites all listed in SOURCES.md file. The original images used can be found in the Assets folder.
